@@ -1,2 +1,2 @@
-#h1 Hello!
-Thank you.
+h1 Hello!
+h2 Thank you.
